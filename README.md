@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-S-Harris
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in developing my programming skills
 - 🌱 I’m currently learning Python, HTML/CSS, Javascript
 - 📫 How to reach me: [TBC]
