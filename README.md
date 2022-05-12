@@ -1,6 +1,8 @@
-Hi, I’m Jack!
-I’m developing my programming skills
-I’m currently learning Python, HTML/CSS, and other technologies.
+Hi 👋 I’m Jack!
+
+I'm a self-taught programmer, currently most confident in Python and HTML/CSS.
+
+I am working every day to increase my confidence in these, as well as other technologies.
 
 
 <!---
