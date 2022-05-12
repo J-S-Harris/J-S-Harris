@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jack
-- 👀 I’m interested in developing my programming skills
-- 🌱 I’m currently learning Python, HTML/CSS, Javascript
-- 📫 How to reach me: [TBC]
+Hi, I’m Jack!
+I’m developing my programming skills
+I’m currently learning Python, HTML/CSS, and other technologies.
+
 
 <!---
 J-S-Harris/J-S-Harris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
