@@ -1,6 +1,6 @@
 Hi 👋 I’m Jack!
 
-I'm a self-taught programmer, currently most confident in Python and HTML/CSS.
+I'm a self-taught programmer, currently most confident in Python and HTML/CSS/JavaScript.
 
 I am working every day to increase my confidence in these, as well as other technologies.
 
