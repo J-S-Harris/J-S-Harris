@@ -1,4 +1,6 @@
-Hi 👋 I’m Jack! Self-taught programmer, strong with Python and HTML/CSS/JavaScript.
+Hi 👋 I’m Jack.
+
+I work as a consultant/software developer, and am always looking to learn new technologies and develop my skills.
 
 En/Fr/Ger
 
