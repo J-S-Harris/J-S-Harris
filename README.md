@@ -1,6 +1,6 @@
 Hi 👋 I’m Jack.
 
-I work as a consultant/software developer, and am always looking to learn new technologies and develop my skills.
+I am a software developer working mainly with Java, but I love coding in my free time and working with other technologies.
 
 En/Fr/Ger
 
