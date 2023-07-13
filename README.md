@@ -2,6 +2,8 @@ Hi 👋 I’m Jack.
 
 I am a software developer working mainly with Java, but I love coding in my free time and working with other technologies.
 
+Java, React/JS/HTML/CSS.
+
 En/Fr/Ger
 
 
