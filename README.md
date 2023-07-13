@@ -1,6 +1,6 @@
 Hi 👋 I’m Jack.
 
-I am a software developer working mainly with Java, but I love coding in my free time and working with other technologies.
+I am a software developer professionally, but I also love coding in my free time and learning new technologies!
 
 Java, Spring, React/JS/HTML/CSS.
 
