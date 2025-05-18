@@ -1,11 +1,6 @@
 Hi 👋 I’m Jack.
 
-I am a software developer professionally, but I also love coding in my free time and learning new technologies!
-
-Java, Spring, React/JS/HTML/CSS.
-
-En/Fr/Ger
-
+I am an experienced (Java) software developer. I also love coding in my free time and learning new technologies!
 
 <!---
 J-S-Harris/J-S-Harris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
